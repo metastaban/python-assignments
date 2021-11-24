@@ -1,3 +1,6 @@
+# Task:
+# Find out if a given number is an "Armstrong Number".
+
 while True:
     try:
         number = input("Write a number to check if it is Armstrong Number: ")
